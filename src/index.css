@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Constraint 3: Token Strictness - Enforce Absolute Light Mode */
+    color-scheme: light;
+  }
+
+  body {
+    /* Inherits carefully curated tokens mapped in Tailwind config */
+    @apply bg-background text-text font-sans antialiased;
+  }
+}
+
+/*width*/
+::-webkit-scrollbar {
+  width: 5px;
+}
+/*track*/
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 5px;
+}
+/*thumb*/
+::-webkit-scrollbar-thumb {
+  background: rgb(171, 171, 171);
+  border-radius: 5px;
+}

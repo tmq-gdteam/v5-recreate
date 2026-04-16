@@ -1,0 +1,135 @@
+{
+  "colors": {
+    "collection-1-accent-orange": "#e14617",
+    "collection-1-accent-teal-duplicate": "#004e61",
+    "collection-1-paragraph-text-duplicate": "rgba(51, 51, 51, 0.8)",
+    "collection-1-text-color": "#333333",
+    "collection-1-white": "#ffffff",
+    "variable-collection-accent-color": "#e14617",
+    "variable-collection-accent-green": "#46a756",
+    "variable-collection-accent-teal": "#004e61",
+    "variable-collection-background-color": "#f4fffd",
+    "variable-collection-card-linear-bg-strokje": "#bfdbfe",
+    "variable-collection-card-stats-bg": "#ffffff",
+    "variable-collection-color-sidetext": "#8b99a0",
+    "variable-collection-color-textcolor": "#0d202f",
+    "variable-collection-main-color": "#e14617",
+    "variable-collection-main-color-bg": "#ffb29a",
+    "variable-collection-main-color-bg-light": "#fff8f6",
+    "variable-collection-main-content-bg": "#f5f5f5",
+    "variable-collection-message-inbound": "#f3f4f6",
+    "variable-collection-message-outbound": "#fdf7ee",
+    "variable-collection-nav-link-color": "#8b99a0",
+    "variable-collection-nav-link-selected": "#0d202f",
+    "variable-collection-paragraph-text": "rgba(51, 51, 51, 0.8)",
+    "variable-collection-sectiion-hd-color": "rgba(51, 51, 51, 0.6)",
+    "variable-collection-selected-sidenav": "#ffffff",
+    "variable-collection-sidepanel-card-bg": "#f9fafb",
+    "variable-collection-siepanel-card-bg-outline": "#e5e7eb",
+    "variable-collection-subtext-color": "#8b99a0",
+    "variable-collection-text-color": "#0d202f",
+    "variable-collection-top-nav-bg": "#f4fffd"
+  },
+  "spacing": {
+    "variable-collection-number-cardradius": "10px",
+    "variable-collection-page-top-left-radius": "20px",
+    "variable-collection-sidebar-gap": "12px",
+    "variable-collection-sidebar-padding": "12px",
+    "variable-collection-topnav-height": "46px"
+  },
+  "typography": {
+    "card-hd-text": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "11.968000411987305px",
+      "font-style": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0px",
+      "line-height": "21.119998931884766px"
+    },
+    "card-stats-main-number": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "25px",
+      "font-style": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "card-stats-main-text": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "20px",
+      "font-style": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "dashboard-stat": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-weight": "500",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "nav-link-text": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "12.09740161895752px",
+      "font-style": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "nav-link-text-selected": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "12.09740161895752px",
+      "font-style": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "nav-section-title": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "9.073051452636719px",
+      "font-style": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "page-header": {
+      "font-family": "\"Playfair Display\", Helvetica",
+      "font-size": "28px",
+      "font-style": "normal",
+      "font-weight": "700",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "page-sub-hd": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-weight": "400",
+      "letter-spacing": "0px",
+      "line-height": "20px"
+    },
+    "section-hd": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-weight": "600",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    },
+    "stat-card-hd": {
+      "font-family": "\"Inter\", Helvetica",
+      "font-size": "15px",
+      "font-style": "normal",
+      "font-weight": "500",
+      "letter-spacing": "0px",
+      "line-height": "normal"
+    }
+  },
+  "shadows": {
+    "card-shadow": "0px 5px 9.199999809265137px 2px rgba(0, 0, 0, 0.06)",
+    "page-shadow": "0px 8px 15.399999618530273px 7px rgba(0, 0, 0, 0.06)",
+    "selected-nav-shadow": "0px 3.78043794631958px 6.956005573272705px 1.51217520236969px rgba(0, 0, 0, 0.06)"
+  }
+}
